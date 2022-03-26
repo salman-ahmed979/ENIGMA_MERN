@@ -31,5 +31,7 @@ The features included in the project are
 The developers of the project are
 
 **Abdullah Tilal Khan** 
+
 **Sadeem Sattar** 
+
 **Salman Ahmed Khan** 
